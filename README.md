@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="obsidian-banner.png" alt="Obsidian Lab Minecraft Banner" width="100%">
+</p>
 # ⛏️ OBSIDIAN LAB
 
 **Minecraft Mod Ports & Fabric Compatibility Patches**
