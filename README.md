@@ -2,7 +2,7 @@
 
 **Minecraft Mod Ports & Fabric Compatibility Patches**
 
-> breaking version barriers, one patch at a time
+> Breaking version barriers, one patch at a time
 
 ## 🟢 About
 
