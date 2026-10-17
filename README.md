@@ -4,17 +4,17 @@
 
 > breaking version barriers, one patch at a time
 
-## 🟢 about
+## 🟢 About
 
 unofficial minecraft java edition mod ports, compatibility patches, and experimental builds
 
-## 📦 projects
+## 📦 Projects
 
 | mod | minecraft | loader | status |
 |---|---|---|---|
 | no projects published yet | — | fabric | planned |
 
-## 🧪 testing status
+## 🧪 Testing status
 
 - `planned` — no build available yet
 - `experimental` — build exists, testing incomplete
@@ -22,7 +22,7 @@ unofficial minecraft java edition mod ports, compatibility patches, and experime
 - `working` — main features confirmed in the documented environment
 - `broken` — known issue prevents intended use
 
-## 📥 downloads
+## 📥 Downloads
 
 check the releases page for available builds
 
@@ -30,11 +30,11 @@ check the releases page for available builds
 
 each project documents its minecraft version, fabric loader, dependencies, test environment, and known issues
 
-## ⚖️ credits & licensing
+## ⚖️ Credits & licensing
 
 original mods remain the property of their respective authors. modified binaries are redistributed only when permitted by the applicable license or explicit permission. otherwise, only permitted patches or source changes may be provided
 
-## ⚠️ disclaimer
+## ⚠️ Disclaimer
 
 this is an unofficial community project and is not affiliated with mojang studios or microsoft
 
