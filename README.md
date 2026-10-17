@@ -13,9 +13,25 @@ unofficial minecraft java edition mod ports, compatibility patches, and experime
 
 ## 📦 Projects
 
-| mod | minecraft | loader | status |
-|---|---|---|---|
-| no projects published yet | — | fabric | planned |
+| Mod | Minecraft | Loader | Status | Download |
+|---|---|---|---|---|
+| Villager News Port | 26.1.2 | Fabric 0.19.5 | 🟢 Tested | [⬇ DOWNLOAD](../../releases/latest) |
+
+### 🧩 Additional Dependencies
+
+- [Entity Sound Features (ESF)](https://modrinth.com/mod/esf/version/0.8.2-fabric-26.1) — check compatibility with Minecraft 26.1.2 before installing.
+Unofficial compatibility port for Minecraft Java Edition. Check dependency compatibility before installation.
+
+🟢 Villager News Port
+
+Unofficial compatibility port for Minecraft 26.1.2.
+
+- Minecraft: 26.1.2
+- Fabric Loader: 0.19.5
+- Testing: Reported working in the maintainer's test environment
+- Additional mod: "Entity Sound Features (ESF)" (https://modrinth.com/mod/esf/version/0.8.2-fabric-26.1)
+
+Download the port from the "Releases page" (../../releases). Check dependency compatibility before installation.
 
 ## 🧪 Testing status
 
